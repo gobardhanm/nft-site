@@ -19,3 +19,10 @@
 ## New property
     > text-decoration
     > to center( text-align: center and margin: 0 auto;)
+
+## DRY
+    > We should group selectors or write multiple selectors using comma separation for DRY purposes.
+
+## Specificity (Precedence)
+    > Higer specificity selector override lower s.s
+    > id selector > class selector > element selector (writeen last in css file) > element selector (the same element written earlier before the last file) 
