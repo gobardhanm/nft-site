@@ -55,3 +55,16 @@
 ## Button vs Links
     > Buttons for actions that affect the website's front-end or back-end (JS!)
     >Links for navigation to somewhere on the same page, within the site, or elsewhere in the internet
+
+## Block element, Inline element and Inline-Block element
+    >Block Element:
+        Stack on top of each other. Ex: div, p , h1
+        Height and margin top and bottom can be set.
+    
+    >Inline Element:
+        Sit side by side. Ex: span , a 
+        Height and margin top and bottom CANN'T be set.
+
+    >Inline-Block Element:
+        Sit side by side . Ex: button , input
+        Height and margin top and bottom can be set.
